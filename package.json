@@ -1,0 +1,11 @@
+{
+  "name": "cognito-pool-generator",
+  "version": "1.0.0",
+  "description": "cognito pool generator",
+  "scripts": {
+    "deploy": "sls deploy"
+  },
+  "keywords": ["cognito", "pool", "cdk", "CloudFormation"],
+  "author": "Dmitry Grinko",
+  "license": "ISC"
+}
